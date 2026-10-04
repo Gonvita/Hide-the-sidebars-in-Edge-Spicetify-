@@ -1,10 +1,10 @@
 {
   "name": "Edge Sidebars",
-  "description": "Oculta la biblioteca y el panel derecho; aparecen solo al pasar el cursor por el borde de la ventana.",
+  "description": "Hides Spotify's sidebars and reveals them only when you move the cursor to the window edge.",
   "preview": "preview.png",
   "main": "edgeSidebars.js",
   "readme": "README.md",
   "authors": [
-    { "name": "TU_USUARIO_DE_GITHUB", "url": "https://github.com/TU_USUARIO_DE_GITHUB" }
+    { "name": "Gonvita", "url": "https://github.com/Gonvita" }
   ]
 }
