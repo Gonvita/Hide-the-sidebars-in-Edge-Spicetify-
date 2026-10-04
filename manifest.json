@@ -1,0 +1,10 @@
+{
+  "name": "Edge Sidebars",
+  "description": "Oculta la biblioteca y el panel derecho; aparecen solo al pasar el cursor por el borde de la ventana.",
+  "preview": "preview.png",
+  "main": "edgeSidebars.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "TU_USUARIO_DE_GITHUB", "url": "https://github.com/TU_USUARIO_DE_GITHUB" }
+  ]
+}
